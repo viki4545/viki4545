@@ -33,7 +33,7 @@ I'm a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, 
 ## 📫 How to reach me
 
 - **Email:** vickygupta9987@gmail.com
-- **LinkedIn:** [Vicky Gupta](https://www.linkedin.com/in/vicky-gupta)
+- **LinkedIn:** [Vicky Gupta](https://www.linkedin.com/in/vicky-gupta-303936169)
 - **GitHub:** [viki4545](https://github.com/viki4545)
 
 Feel free to explore my repositories to see my work and let's connect!
